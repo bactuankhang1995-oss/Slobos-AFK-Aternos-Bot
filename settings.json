@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ankaramessiiii.aternos.me:64170",
-    "port": 27586,
+    "ip": "ankaramessiiii.aternos.me",
+    "port": 64170,
     "version": "",
     "try-creative": false
   },
